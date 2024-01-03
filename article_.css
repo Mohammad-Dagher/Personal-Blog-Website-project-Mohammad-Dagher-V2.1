@@ -1,0 +1,36 @@
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+figure {
+  border: 0% #cccccc solid;
+  padding: 0%;
+  margin: 0% 0% 0% 0%;
+}
+
+.item_section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 0%;
+}
+.figure_contaner {
+  display: flex;
+  flex-direction: column;
+  gap: 0%;
+  align-items: center;
+  flex-basis: auto;
+  flex: none;
+}
+
+img {
+  display: inline;
+  margin: 40px 1em 40px 1em;
+  width: 100%;
+  height: 40%;
+}

@@ -1,0 +1,7 @@
+footer {
+  background-color: #374259;
+
+  display: flex;
+  flex-wrap: nowrap;
+  align-content: center;
+}
